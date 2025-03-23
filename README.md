@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Alligator1506/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alligator1506/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Alligator1506/LeetCode/tree/master/0136-single-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Alligator1506/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Alligator1506/LeetCode/tree/master/0171-excel-sheet-column-number) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Alligator1506/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
