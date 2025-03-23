@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Alligator1506/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Alligator1506/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Alligator1506/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Sorting
 |  |
 | ------- |
