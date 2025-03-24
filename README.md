@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Alligator1506/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Alligator1506/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alligator1506/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Alligator1506/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Alligator1506/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alligator1506/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Alligator1506/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Alligator1506/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Alligator1506/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Alligator1506/LeetCode/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
