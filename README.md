@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Alligator1506/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Alligator1506/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Alligator1506/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Alligator1506/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Alligator1506/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alligator1506/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Alligator1506/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Alligator1506/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Alligator1506/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
