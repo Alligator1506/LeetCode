@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Alligator1506/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Alligator1506/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Alligator1506/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
