@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alligator1506/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Alligator1506/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Alligator1506/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Alligator1506/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alligator1506/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Alligator1506/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Tree
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Alligator1506/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Alligator1506/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
