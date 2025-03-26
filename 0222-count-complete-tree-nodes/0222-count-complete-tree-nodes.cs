@@ -12,9 +12,29 @@
  * }
  */
 public class Solution {
+    // public int CountNodes(TreeNode root)
+    // {
+    //     if (root == null) return 0;
+    //     return 1 + CountNodes(root.left) + CountNodes(root.right);
+    // }
     public int CountNodes(TreeNode root)
     {
         if (root == null) return 0;
-        return 1 + CountNodes(root.left) + CountNodes(root.right);
+        int leftHeight = GetHeight(root.left);
+        int rightHeight = GetHeight(root.right);
+        if (leftHeight == rightHeight)
+        {
+            return (1 << leftHeight) + CountNodes(root.right);
+        }
+        else
+        {
+            return (1 << rightHeight) + CountNodes(root.left);
+        }
+    }
+
+    public int GetHeight(TreeNode root)
+    {
+        if (root == null) return 0;
+        return 1 + GetHeight(root.left);
     }
 }
